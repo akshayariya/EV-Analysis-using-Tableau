@@ -9,7 +9,7 @@ Sales_Performance.csv - Dataset containing sales performance data.
 ## Usage
 Download the EV_Dashboard.twbx file.
 Open it in Tableau Desktop.
-Ensure that the dataset files (Electric_Vehicle_Details.csv and Sales_Performance.csv) are placed in the folder relative to the .twbx file location.
+Ensure that the dataset files (Electric_Vehicle_Details.csv) are placed in the folder relative to the .twbx file location.
 
 ## Column Descriptors
 Electric_Vehicle_Details.csv
